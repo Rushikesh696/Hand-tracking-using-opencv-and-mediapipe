@@ -39,4 +39,5 @@ This project demonstrates **real-time hand tracking** using **MediaPipe** and **
 - **MediaPipe**
 
 🙋‍♂️ Author
+
 Rushikesh — GitHub
